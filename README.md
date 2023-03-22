@@ -2,7 +2,7 @@
 
 设计模式Go语言实现。
 
-学习网站：[REFACTORING.GURU](https://refactoring.guru/design-patterns)
+学习网站：[REFACTORING.GURU](https://refactoringguru.cn/design-patterns)
 
 ## 1.设计模式
 
