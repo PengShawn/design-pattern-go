@@ -32,6 +32,7 @@ func (c *CModuleImpl) TestC() {
 	fmt.Println("现在在C模块里面操作TestC方法")
 }
 
+// Facade 也能实现成为接口，这里为了理解简单，直接使用struct
 type Facade struct{}
 
 func (f *Facade) Test() {
