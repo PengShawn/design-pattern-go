@@ -1,0 +1,4 @@
+Price of veggeMania with cheese topping is 25
+Price of veggeMania with tomato and cheese topping is 32
+Price of PeppyPaneer with tomato topping is 27
+Price of PeppyPaneer with cheese and tomato topping is 37
